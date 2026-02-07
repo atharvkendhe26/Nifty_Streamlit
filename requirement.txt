@@ -1,7 +1,7 @@
 numpy
 pandas
 datetime
-matplotlib
+matplotlib.pyplot
 seaborn
 streamlit
 yfinance
